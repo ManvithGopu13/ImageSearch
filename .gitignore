@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Project Specific
+# Uploaded images (user data)
+uploads/
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Database files
+data/
+*.sqlite3
+*.db
+
+# Model files (too large for git)
+models/
+*.pt
+*.pth
+*.onnx
+*.h5
+*.pkl
+*.bin
+yolov8n.pt
+
+# Cache directories
+.cache/
+*.log
+
+# Environment variables (keep .example)
+.env
+config.env
+
+# Temporary files
+*.tmp
+*.temp
+.pytest_cache/
+.mypy_cache/
+
+# OS
+Thumbs.db
+desktop.ini

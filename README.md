@@ -2,7 +2,7 @@
 
 An intelligent image search system powered by AI, combining OCR, object detection, image captioning, and semantic search with RAG (Retrieval-Augmented Generation).
 
-## ✨ Features
+## Features
 
 - 📸 **Upload & Process Images** - Automatic analysis of uploaded images
 - 🔍 **Semantic Search** - Natural language search across your image collection
@@ -161,7 +161,7 @@ SIMILARITY_THRESHOLD=0.22
 - Configurable top-K results
 - Keyword-aware ranking
 
-## 🎨 Visualization
+## Visualization
 
 ### Network Map
 - 2D graph with colored clusters
@@ -200,7 +200,7 @@ Contributions welcome! Please:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - OpenAI CLIP
 - Salesforce BLIP
@@ -213,5 +213,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or support, please open an issue on GitHub.
 
 ---
-
-**Built with ❤️ using Python, FastAPI, and cutting-edge AI models**
